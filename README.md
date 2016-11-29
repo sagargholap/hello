@@ -1,2 +1,5 @@
 # hello
-First repository on Github
+Desc: First repository on Github
+
+
+This a collection of very basic programs written using the Java language.
